@@ -1,0 +1,33 @@
+.todo-container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+  }
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#todoInput {
+    box-sizing: margin-box;
+    width: 200px;
+    border: 2.5px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+
+button {
+        background-color: rgb(72, 72, 216); /* Green */
+        border: 3px;
+        border-radius: 2.5px;
+        color: white;
+        width: 150px;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        font-size: 16px;
+        margin-bottom: 10px;
+}
